@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masamune</h1>
 <h3 align="center">Passionate About Web Security and Cyber Security</h3>
 
-- 🔭 I’m currently working on [Opswat](https://www.opswat.com)
+- 🔭 I’m currently working at [Opswat](https://www.opswat.com)
 
 - 🌱 I’m currently learning **Dreamhack**
 
