@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Dreamhack**
 
-- 📝 I regularly write articles on [https://masamuneee.github.io](https://masamuneee.github.io)
-
-- ⚡ Fun fact **Handsome guy**
+- 📝 I regularly write articles on [https://masamunee.me](https://masamunee.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
